@@ -1,0 +1,5 @@
+{
+  "name": "性格診断クイズ (Personality Quiz)",
+  "description": "10問の簡単な質問に答えるだけで、あなたの性格の長所、短所、そして相性の良いタイプがわかる性格診断アプリです。(Answer 10 simple questions to discover your personality strengths, weaknesses, and compatible types with this personality quiz app.)",
+  "requestFramePermissions": []
+}
